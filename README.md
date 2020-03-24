@@ -85,3 +85,56 @@ Red flag stands for martyrdom. In the Iranian culture, it symbolises bravery, fi
 
 Plain red banners for the Sultan's retinue. From the collection Moeurs et costumes des Orientaux, undated
 [https://www.wikiwand.com/en/Red_flag_(politics)](https://www.wikiwand.com/en/Red_flag_(politics))
+# Founders of The red flag newspaper
+
+### About the red flag (Die rote Fahne)
+
+The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg)
+
+**Rosa Luxemburg**
+[https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg)
+15/02/2020
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg)
+
+**Karl Liebknecht**
+[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg)
+15/02/2020
+
+### The Spartacus League
+
+The Spartacus League (German: Spartakusbund) was a Marxist revolutionary movement organized in Germany during World War I. The League was named after Spartacus, leader of the largest slave rebellion of the Roman Republic. It was founded by Karl Liebknecht, Rosa Luxemburg, Clara Zetkin, and others. The League subsequently renamed itself the Kommunistische Partei Deutschlands (KPD), joining the Comintern in 1919. Its period of greatest activity was during the German Revolution of 1918, when it sought to incite a revolution by circulating the newspaper Spartacus Letters.
+
+![https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
+
+[https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
+LEMO Lebendiges Museum Online
+-
+Berlin, 1919
+Offsetdruck
+62x47 cm
+© Deutsches Historisches Museum, Berlin
+Inv.-Nr: P 62/951
+-
+25/02/2020
+
+![https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024](https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024)
+
+[https://dietrommlerarchiv.files.wordpress.com/2018/12/Gründung-Spartakusgruppe.jpeg?w=1024](https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024)
+25/02/2020
+
+**Rosa Luxemburg**
+
+Freiheit ist immer Freiheit der Andersdenkenden
+
+Freedom is always the freedom of dissenters.
+
+"Variant: Freedom is always and exclusively freedom for the one who thinks differently.
+
+**The Accumulation of Capital** book by Rosa Luxemburg
+
+[Die Akkumulation des Kapitals](http://mlwerke.de/lu/lu05/lu05_005.htm)
+
+In the polemic, she argued that capitalism needs to constantly expand into noncapitalist areas in order to access new supply sources, markets for surplus value, and reservoirs of labor. According to Luxemburg, Marx had made an error in Capital in that the proletariat could not afford to buy the commodities they produced, and therefore by his own criteria it was impossible for capitalists to make a profit in a closed-capitalist system since the demand for commodities would be too low, and therefore much of the value of commodities could not be transformed into money. Therefore, according to Luxemburg, capitalists sought to realize profits through offloading surplus commodities onto non-capitalist economies, hence the phenomenon of imperialism as capitalist states sought to dominate weaker economies. This however lead to the destruction of non-capitalist economies as they were increasingly absorbed into the capitalist system. With the destruction of non-capitalist economies however, there would be no more markets to offload surplus commodities onto, and capitalism would break down.
