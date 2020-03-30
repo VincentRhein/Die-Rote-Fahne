@@ -1,6 +1,6 @@
 <h1>The Red Flag</h1>
 
-# Table of Contents
+### Table of Contents
 1. [Media](#Media)
 2. [Format](#Format)
 3. [Methodology](#Methodology)
