@@ -46,3 +46,6 @@ I found this poster during my research for image class. In my research, for imag
 # About the red flag (Die rote Fahne)
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
 
+[![Newspaper](/assets/images/Karl_Liebknecht.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Karl_Liebknecht.jpg)
+
+[![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg)
