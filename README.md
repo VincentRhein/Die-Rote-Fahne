@@ -44,7 +44,7 @@
  IISG BG D5/981 |
  
 | **Designer** | 
- Designer	Flieger, Schallnau, Wongel
+ Designer	Flieger, Schallnau, Wongel |
 
 
 ### Media
