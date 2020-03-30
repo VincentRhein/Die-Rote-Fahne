@@ -2,9 +2,10 @@
 
 ### Table of Contents
 
-- [Media](#Media)
-- [Format](#Format)
-- [Methodology](#Methodology)
+- [Artefact](#Artefact)
+  * [Media](#Media)
+  + [Format](#Format)
+  + [Methodology](#Methodology)
 - [Founders](#Founders)
   * [The-Spartacus-League](#The-Spartacus-League)
 
@@ -25,7 +26,7 @@
 
 
 
-## Media
+### Media
 
 Poster from the German Democratic Republic on paper.
 
