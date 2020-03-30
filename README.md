@@ -15,7 +15,6 @@ Poster from the German Democratic Republic on paper.
 The text on the poster is written in german. Furthermore the text is written in fraktur. For my personally this is still readable then but very time consuming and not possible on this image. I am aware that they are not very a "big fan" in handing out posters but in this case it is very difficult and not possible otherwise. I still would like to give it a try if they will hand my out this poster because of the text.
 
 ### **Preservation**
-
 Depending on how much care they take on the poster and the paper is stored with the right light,  temperature and humidity this poster could be preserved for several hundred years. Although the poster was published in 1968 and is already very yellow I assume it was a cheap paper to print a lot of posters.
 
 ---
