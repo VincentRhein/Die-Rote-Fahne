@@ -16,17 +16,35 @@
 
 # **Artefact**
 
-1. Other Organization(s):	SED (DDR). Zentralkomitee. Abteilung Agitation
-2. Other Congress(es):	Commemoration of the Novemberrevolution. (1968)
-3. Period:	1968-1968
-4. Physical Description:	41x28.5 cm.
-5. Published:	1968 (Berlin :Verlag für Agitations- und Anschauungsmittel,
-6. Genres:	Poster
-7. Note: Reprint. From: portfolio "60. Jahrestag der Novemberrevolution/60. Jahrestag der Gründung der KPD".
-8. Subject Location:	German Democratic Republic (GDR)
-9. Call Number	IISG BG D5/981
-10. Designer	Flieger, Schallnau, Wongel
+| **Other Organization(s)** | 
+ Zentralkomitee. Abteilung Agitation | 
 
+| **Other Congress(es)** | 
+ Commemoration of the Novemberrevolution. (1968) | 
+
+| **Period** | 
+ 1968-1968 |
+ 
+| **Physical Description** | 
+ 41x28.5 cm. |  
+
+| **Published:** | 
+ 41x28.5 cm. |
+
+| **Genres** | 
+ Poster |
+ 
+| **Note** | 
+ Reprint. From: portfolio "60. Jahrestag der Novemberrevolution/60. Jahrestag der Gründung der KPD". | 
+ 
+| **Subject Location** | 
+ German Democratic Republic (GDR) |
+
+| **Call Number** | 
+ IISG BG D5/981 |
+ 
+| **Designer** | 
+ Designer	Flieger, Schallnau, Wongel
 
 
 ### Media
