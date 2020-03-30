@@ -62,6 +62,6 @@ The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht 
 
 The Spartacus League (German: Spartakusbund) was a Marxist revolutionary movement organized in Germany during World War I. The League was named after Spartacus, leader of the largest slave rebellion of the Roman Republic. It was founded by Karl Liebknecht, Rosa Luxemburg, Clara Zetkin, and others. The League subsequently renamed itself the Kommunistische Partei Deutschlands (KPD), joining the Comintern in 1919. Its period of greatest activity was during the German Revolution of 1918, when it sought to incite a revolution by circulating the newspaper Spartacus Letters.
 
-[![Newspaper](/assets/images/Karl_Liebknecht.jpg "KPD_SPARTAKUSBUND.jpg")](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
+[![Newspaper](/assets/images/KPD_SPARTAKUSBUND.jpg "KPD_SPARTAKUSBUND.jpg")](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
 
 *KPD Spartakusbund*
