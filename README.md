@@ -64,4 +64,8 @@ The Spartacus League (German: Spartakusbund) was a Marxist revolutionary movemen
 
 [![Newspaper](/assets/images/KPD_SPARTAKUSBUND.jpg "KPD_SPARTAKUSBUND.jpg")](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
 
-*KPD Spartakusbund*
+*KPD Spartakusbund Berlin, 1919
+Offsetdruck
+62x47 cm
+© Deutsches Historisches Museum, Berlin
+Inv.-Nr: P 62/951*
