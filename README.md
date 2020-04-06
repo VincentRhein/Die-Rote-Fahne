@@ -73,8 +73,19 @@ Depending on how much care they take on the poster and the paper is stored with 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
 # **Rote-Fahne-Newspapers**
-[![Rote-Fahne-Newspapers](/assets/images/1_RF.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
+[![Rote-Fahne-Newspapers](/assets/images/1_RF.jpg "1_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
 *Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1*
+
+[![Rote-Fahne-Newspapers](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
+*The Red Flag, Communist Newspaper, Year Two. Friday, 2nd August 1935 Nr. 104. “Proletarians of all countries, unite!”*
+
+[![Rote-Fahne-Newspapers](/assets/images/3_RF.jpg "3_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_RF.jpg)
+*The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920*
+
+[![Rote-Fahne-Newspapers](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
+*The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83*
+
+
 
 # **Founders**
 
