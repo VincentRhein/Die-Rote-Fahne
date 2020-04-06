@@ -8,6 +8,7 @@
   + [Methodology](#Methodology)
   + [Preservation](#Preservation)
 - [Rote-Fahne-Newspapers](#Rote-Fahne-Newspapers)
+  * [29th-March-1921](#29th-March-1921)
 - [Founders](#Founders)
   * [The-Spartacus-League](#The-Spartacus-League)
   + [The-Accumulation-of-Capital](#The-Accumulation-of-Capital)
@@ -73,7 +74,9 @@ Depending on how much care they take on the poster and the paper is stored with 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
 # **Rote-Fahne-Newspapers**
-[![Rote-Fahne-Newspapers](/assets/images/1_RF.jpg "1_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
+
+### 29th-March-1921
+[![29th-March-1921](/assets/images/1_RF.jpg "1_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
 *Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1*
 
 [![Rote-Fahne-Newspapers](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
@@ -85,10 +88,7 @@ I found this poster during my research for image class. In my research, for imag
 [![Rote-Fahne-Newspapers](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
 *The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83*
 
-
-
 # **Founders**
-
 
 ### About the red flag (Die rote Fahne)
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
