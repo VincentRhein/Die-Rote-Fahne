@@ -93,7 +93,33 @@ I found this poster during my research for image class. In my research, for imag
 
 ### 2nd August 1935
 [![2nd August 1935](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
-*The Red Flag, Communist Newspaper, Year Two. Friday, 2nd August 1935 Nr. 104. “Proletarians of all countries, unite!”*
+***Die Rote Fahne (de)**
+
+Kommunistisches Tagblatt
+
+Proletarier aller Länder, vereinigt euch!
+
+Jahrgang 2 Freitag, 2 August 1935. Nummer 104.
+
+Klerikofaschismus in Nöten:
+
+Heimwehr vor der Auflösung?
+
+Wien, 1. August. – Ein Erlass der österreichischen Heimkehrführung verbietet in Hinkunft jede politische Kundgebung der Heimwehren und droht mit Disziplinarverfahren und Ausstossung aus der Heimwehr gegen alle Zuwiderhandelnde. Im Erlass heisst es: “Die Habsburgerfrage dürfte kein Streitobjekt innerhalb der Heimwehr bilden. Falls es isch herausstellen sollte, dass es unmöglich sei, bei bestimmten Verbänden weiteres Politisieren zu verhindern, werden solche Formationen aufgelöst. Die Regierung sei stark genug, auch ohne sie auszukommen. “Die wilde Drohung verdeckt aber nur die innere Schwäche der österreichischen klerofaschistischen Diktatur.
+
+**The Red flag (eng)**
+
+Communist daily paper
+
+Proletarians of all countries, unite!
+
+Year 2 Friday, August 2, 1935. Number 104.
+
+Cleric fascism in need:
+
+Home Guard Before Dissolution?
+
+Vienna, August 1st. - In the future, a decree issued by the Austrian return commander forbids any political rally by the home ward and threatens disciplinary proceedings and expulsion from the home guard against all offenders. The decree states: “The Habsburg question should not be a subject of dispute within the home defense. If it turns out that it is impossible to prevent further politicization in certain associations, such formations will be dissolved. The government is strong enough to get by without it. “But the wild threat only hides the inner weakness of the Austrian clergy-fascist dictatorship.*
 
 # **Founders**
 
