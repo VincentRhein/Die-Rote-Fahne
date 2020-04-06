@@ -11,6 +11,7 @@
   * [The-Spartacus-League](#The-Spartacus-League)
   + [The-Accumulation-of-Capital](#The-Accumulation-of-Capital)
 - [Red-Flag-Database](#Red-Flag-Database)
+- [Poster-Analysis](#Poster-Analysis)
 - [Toolkit](#Toolkit)
  
 
@@ -101,5 +102,7 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 *The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.*
 
 # **Red-Flag-Database**
+
+# **Poster-Analysis**
 
 # **Toolkit**
