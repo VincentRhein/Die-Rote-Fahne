@@ -8,6 +8,7 @@
   + [Methodology](#Methodology)
   + [Preservation](#Preservation)
 - [Rote-Fahne-Newspapers](#Rote-Fahne-Newspapers)
+  + [1919-1920](#1919-1920)
   + [Marchdays-1920](#Marchdays-1920)
   * [29th-March-1921](#29th-March-1921)
   + [2nd-August-1935](#2nd-August-1935)
@@ -78,6 +79,10 @@ I found this poster during my research for image class. In my research, for imag
 
 # **Rote-Fahne-Newspapers**
 
+### 1919-1920
+[![1919-1920](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
+*The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920*
+
 ### Marchdays-1920
 [![Marchdays-1920](/assets/images/3_RF.jpg "3_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_RF.jpg)
 *The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920*
@@ -89,10 +94,6 @@ I found this poster during my research for image class. In my research, for imag
 ### 2nd August 1935
 [![2nd August 1935](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
 *The Red Flag, Communist Newspaper, Year Two. Friday, 2nd August 1935 Nr. 104. “Proletarians of all countries, unite!”*
-
-
-[![Rote-Fahne-Newspapers](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
-*The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83*
 
 # **Founders**
 
