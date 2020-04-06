@@ -150,13 +150,13 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 # **Red-Flag-Database**
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+| | | | 
+|:-------------------------:|:-------------------------:|:-------------------------:| 
 |<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--000.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--001.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--002.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--003.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--004.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--008.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--005.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--006.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--007.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--009.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--010.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--011.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--012.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--013.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--013.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--012.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--013.jpg">|<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--015.png">|
 
 # **Poster-Analysis**
 
