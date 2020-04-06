@@ -3,6 +3,7 @@
 ### Table of Contents
 
 - [Artefact](#Artefact)
+  + [Close-up](#Close-up)
   * [Media](#Media)
   + [Format](#Format)
   + [Methodology](#Methodology)
@@ -53,6 +54,8 @@
  
 | **Designer** | 
  Designer	Flieger, Schallnau, Wongel |
+
+### Close-up
 
 
 ### Media
