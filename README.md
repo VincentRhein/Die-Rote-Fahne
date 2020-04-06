@@ -7,6 +7,7 @@
   + [Format](#Format)
   + [Methodology](#Methodology)
   + [Preservation](#Preservation)
+- [Rote-Fahne-Newspapers](#Rote-Fahne-Newspapers)
 - [Founders](#Founders)
   * [The-Spartacus-League](#The-Spartacus-League)
   + [The-Accumulation-of-Capital](#The-Accumulation-of-Capital)
@@ -70,6 +71,8 @@ Depending on how much care they take on the poster and the paper is stored with 
 ### About the artefact and how I found it
 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
+
+# **Rote-Fahne-Newspapers**
 
 # **Founders**
 
