@@ -150,6 +150,10 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 # **Red-Flag-Database**
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--000.png">  Formula 1 |  <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--001.png">|<img width="1604"  src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--003.png">|<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--002.png">|<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--004.png">| 
+
 # **Poster-Analysis**
 
 # **Toolkit**
