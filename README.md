@@ -175,3 +175,9 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 <a href="https://youtu.be/zsH9NA6Ytvg" target="_blank"><img src="http://img.youtube.com/vi/zsH9NA6Ytvg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TEXT.png"> TOOLKIT SKETCHES
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TEXT.png"> TOOLKIT SKETCHES
+
+
