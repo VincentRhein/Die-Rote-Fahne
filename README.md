@@ -188,3 +188,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_WEB.png"> TOOLKIT SKETCHES
 
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_WEB.png"> TOOLKIT SKETCHES
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/5_WEB.png"> TOOLKIT SKETCHES
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6_WEB.png"> TOOLKIT SKETCHES
