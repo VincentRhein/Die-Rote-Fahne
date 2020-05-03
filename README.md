@@ -141,7 +141,7 @@ The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht 
 [![Newspaper](/assets/images/Karl_Liebknecht.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Karl_Liebknecht.jpg)
 *Karl Liebknecht* <sup>[[1]](#footnote-1)</sup>
 
-[![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg) (#footnote-2)</sup>
+[![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg) <sup>[[2]](#footnote-2)</sup>
 *Rosa Luxemburg*
 
 ### The-Spartacus-League
