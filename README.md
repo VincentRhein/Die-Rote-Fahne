@@ -1,6 +1,5 @@
 [![Banner](/assets/images/BANNER.jpg "BANNER.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/BANNER.jpg)
 
-<h1>Die Rote Fahne, Zentralorgan Der Kommunistischen Partei Deutschlands (Spartakusbund)</h1> 
 <h1>The Red flag, Central organ of the German Communist Party (Spartacus League)</h1>
 
 ### Table of Contents
