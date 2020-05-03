@@ -267,4 +267,4 @@ Spartakusbund- "https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jp
 
 <a name="https://www.deutsche-handschrift.de/images/fraktur.gif">**[6]**</a>: Fraktur - https://www.deutsche-handschrift.de/images/fraktur.gif"
 
-<a name="https://youtu.be/zsH9NA6Ytvg">**[7]**</a>: Video Website Sketch - https://youtu.be/zsH9NA6Ytvg"
+<a name="https://youtu.be/zsH9NA6Ytvg">**[7]**</a>: Video Website Sketch - https://youtu.be/zsH9NA6Ytvg
