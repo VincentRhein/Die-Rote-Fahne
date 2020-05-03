@@ -93,7 +93,7 @@ Depending on how much care they take on the poster and the paper is stored with 
 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
-More newspaper examples from the red flag I was able to acccess and document at the IISG.
+###  More newspaper examples from the red flag I was able to acccess and document at the IISG.
 
 ### 1919-1920
 [![1919-1920](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
@@ -177,11 +177,19 @@ Images and gifs <sup>[[5]](#footnote-5)</sup>
 
 # **Toolkit-Transcoding**
 
+### Description
 My main transcoding tool was to create an improved archive website for the red flag newspaper. Going throught the newspapers on the IISG website I was missing the details and informations from the photographies or scannes of the newspaper. To improve this missing part I started on an early stage on already to think how this could work as a website. I needed someone a zoom function that lets the user dive deeper into details of the newspapers. But at the same time I would need a transcripted text below if it was to hard to figure out or to translate from german to english.
 
 My Website provides more details and better understanding of the red flag newspaper. Thanks to the the black and white photos the contrast is higher and therfore the text is more readable. With the zoom function it is possible now to look at each sentence or even single letters.
 
-### Sketches
+### Aims
+The aim of this Tool is to be able research further about the Red Flag Newspaper. The Zoom function and transcripts text from the newspaper allows the user to learn more in details and depths about the newspaper. On the IISG archive website you are able to click on it ant thats kinda it. If the photos is in bad resolution then its even worse. With this tool you can zoom into details, learn more about it and even already have transcript text from the newspaper to the webpage.
+
+### Methods
+Currently the website is hosted via Github. This works good because its easy to change and reupload without any further problems. If there are any problems, they are easy to solve due to the large community of Github. The website is written by myself in html and css and uses for the zoom function and text javascript.   
+
+### Results
+The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> TOOLKIT SKETCHES
 
@@ -208,6 +216,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6_WEB.png"> TOOLKIT SKETCHES
 
 Final WIP TOOLKIT -> https://vincentrhein.github.io/RedFlagWeb/
+
+### Source Links
+Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool. 
+
 
 # **Reflection**
 
