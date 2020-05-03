@@ -201,27 +201,28 @@ Sketches and results of my progress to create my tool.
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> Overview of different newspapers but also of different posters by the designers.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TOOLKIT.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TOOLKIT.png"> Large Newspaper Title for the toolkit website.
 
 <a href="https://youtu.be/zsH9NA6Ytvg" target="_blank"><img src="http://img.youtube.com/vi/zsH9NA6Ytvg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
+Animated sketch in after effect of the website uploded on youtube. Spend more time figuring out animation instead of thinking of the design, therfore this is not a great solution. 
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TEXT.png"> TOOLKIT Large Newspaper Title for the toolkit website.
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TEXT.png"> TOOLKIT German Fraktur Letters
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TEXT.png"> TOOLKIT SKETCHES
 <sup>[[6]](#footnote-6)</sup>
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_WEB.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_WEB.png"> TOOLKIT First clean improved sketches of a clear title and text on the starting page.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_WEB.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_WEB.png"> TOOLKIT The possibility to click on images and zoom into them.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_WEB.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_WEB.png"> TOOLKIT Screenshots of the action
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_WEB.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_WEB.png"> TOOLKIT Second screenshots of the action
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/5_WEB.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/5_WEB.png"> TOOLKIT Third screenshots of the action
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6_WEB.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6_WEB.png"> TOOLKIT Overview of my newspaer archive.
 
 Final WIP TOOLKIT -> https://vincentrhein.github.io/RedFlagWeb/
 
