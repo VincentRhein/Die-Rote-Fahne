@@ -189,7 +189,15 @@ The aim of this Tool is to be able research further about the Red Flag Newspaper
 Currently the website is hosted via Github. This works good because its easy to change and reupload without any further problems. If there are any problems, they are easy to solve due to the large community of Github. The website is written by myself in html and css and uses for the zoom function and text javascript.   
 
 ### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
+Sketches and results of my progress to create my tool. 
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_SKETCH.png"> TOOLKIT SKETCHES
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_SKETCH.png"> TOOLKIT SKETCHES
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_SKETCH.png"> TOOLKIT SKETCHES
+
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_SKETCH.png"> TOOLKIT SKETCHES
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> TOOLKIT SKETCHES
 
