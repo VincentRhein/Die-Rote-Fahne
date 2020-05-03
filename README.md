@@ -5,7 +5,6 @@
 ### Table of Contents
 
 - [Artefact](#Artefact)
-  + [Banner](#Banner)
   + [Metadata](#Metadata)
 - [Research](#Research)
   + [Close-up](#Close-up)
