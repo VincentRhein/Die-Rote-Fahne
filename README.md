@@ -209,7 +209,7 @@ Animated sketch in after effect of the website uploded on youtube. Spend more ti
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TEXT.png">  German Fraktur Letters
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TEXT.png">  SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TEXT.png">  German Fraktur Letters
 <sup>[[6]](#footnote-6)</sup>
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_WEB.png">  First clean improved sketches of a clear title and text on the starting page.
