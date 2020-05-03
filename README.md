@@ -226,8 +226,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 Final WIP TOOLKIT -> https://vincentrhein.github.io/RedFlagWeb/
 
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool. 
+Inputs and codes I found for my tools during research or at group talks.
+https://kranten.archiefalkmaar.nl/issue/ACO/1936-03-04/edition/null/page/7?query=
 
+https://codepen.io/uglycoyote/pen/gpfeC
+
+https://codepen.io/creme/pen/gOYrvxM
+
+https://www.w3schools.com/howto/howto_js_image_zoom.asp
 
 # **Reflection**
 
