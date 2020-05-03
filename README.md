@@ -160,7 +160,7 @@ Inv.-Nr: P 62/951*
 In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand into noncapitalist areas in order to access new supply sources, markets for surplus value, and reservoirs of labor. According to Luxemburg, Marx had made an error in Capital in that the proletariat could not afford to buy the commodities they produced, and therefore by his own criteria it was impossible for capitalists to make a profit in a closed-capitalist system since the demand for commodities would be too low, and therefore much of the value of commodities could not be transformed into money. Therefore, according to Luxemburg, capitalists sought to realize profits through offloading surplus commodities onto non-capitalist economies, hence the phenomenon of imperialism as capitalist states sought to dominate weaker economies. This however lead to the destruction of non-capitalist economies as they were increasingly absorbed into the capitalist system. With the destruction of non-capitalist economies however, there would be no more markets to offload surplus commodities onto, and capitalism would break down.
 
 [![Newspaper](/assets/images/Rosa_Luxemburg_book.jpg "Rosa_Luxemburg_book.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg_book.jpg)
-*The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.*
+*The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.* <sup>[[4]](#footnote-4)</sup>
 
 # **Red-Flag-Database**
 
@@ -228,5 +228,9 @@ I was able to improve my skills in research and coding. Compared to my last year
 
 <a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[2]**</a>: Rosa Luxemburg - "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg"
 
-<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[3]**</a>: Rosa Luxemburg - "https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg"
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[3]**</a>: 
+Spartakusbund- "https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg"
+
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[4]**</a>: The Accumulation of Capitalism by Rosa Luxemburg - "https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/"
+
 
