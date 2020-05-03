@@ -216,4 +216,7 @@ https://vincentrhein.github.io/RedFlagWeb/
 # **Conclusion**
 
 # **Bibliography**
-<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg-1">**[1]**</a>
+
+
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht 
+
