@@ -273,4 +273,4 @@ Spartakusbund- "https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jp
 
 <a name="https://youtu.be/zsH9NA6Ytvg">**[7]**</a>: Video Website Sketch - https://youtu.be/zsH9NA6Ytvg
 
-<a name="https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024">**[8]**</a>: gründung der spartakusgruppe - https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024
+<a name="https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024">**[8]**</a>: Foundation of the Spartacus group - https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024
