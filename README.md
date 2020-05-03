@@ -1,6 +1,6 @@
 [![Banner](/assets/images/BANNER.jpg "BANNER.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/BANNER.jpg)
 
-<h1>The Red flag, Central organ of the German Communist Party (Spartacus League)</h1>
+<h1>The Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)</h1>
 
 ### Table of Contents
 
@@ -11,7 +11,7 @@
   + [Format](#Format)
   + [Methodology](#Methodology)
   + [Preservation](#Preservation)
-- [Rote-Fahne-Newspapers](#Rote-Fahne-Newspapers)
+- [Research](#Research)
   + [1919-1920](#1919-1920)
   + [Marchdays-1920](#Marchdays-1920)
   * [29th-March-1921](#29th-March-1921)
@@ -86,7 +86,7 @@ Depending on how much care they take on the poster and the paper is stored with 
 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
-# **Rote-Fahne-Newspapers**
+# **Research**
 
 ### 1919-1920
 [![1919-1920](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
