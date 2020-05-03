@@ -1,8 +1,11 @@
+[![Banner](/assets/images/BANNER.jpg "BANNER.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/BANNER.jpg)
+
 <h1>The Red Flag</h1>
 
 ### Table of Contents
 
 - [Artefact](#Artefact)
+  + [Banner](#Banner)
   + [Close-up](#Close-up)
   * [Media](#Media)
   + [Format](#Format)
