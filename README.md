@@ -19,8 +19,6 @@
   * [The-Spartacus-League](#The-Spartacus-League)
   + [The-Accumulation-of-Capital](#The-Accumulation-of-Capital)
 - [Red-Flag-Database](#Red-Flag-Database)
-  + [Farbtest](#Farbtest)
-- [Poster-Analysis](#Poster-Analysis)
 - [Toolkit-Transcoding](#Toolkit-Transcoding)
 - [Reflection](#Reflection)
 - [Outcomes](#Outcomes)
@@ -175,11 +173,11 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--012.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--013.jpg">|<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--015.png">|
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--016.jpg"> Plain red banners for the Sultan's retinue. From the collection Moeurs et costumes des Orientaux, undated|
 
-# **Farbtest**
-
-# **Poster-Analysis**
-
 # **Toolkit-Transcoding**
+
+My main transcoding tool was to create an improved archive website for the red flag newspaper. Going throught the newspapers on the IISG website I was missing the details and informations from the photographies or scannes of the newspaper. To improve this missing part I started on an early stage on already to think how this could work as a website. I needed someone a zoom function that lets the user dive deeper into details of the newspapers. But at the same time I would need a transcripted text below if it was to hard to figure out or to translate from german to english.
+
+My Website provides more details and better understanding of the red flag newspaper. Thanks to the the black and white photos the contrast is higher and therfore the text is more readable. With the zoom function it is possible now to look at each sentence or even single letters.
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> TOOLKIT SKETCHES
 
