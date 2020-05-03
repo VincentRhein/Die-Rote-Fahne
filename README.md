@@ -156,7 +156,7 @@ Offsetdruck
 Inv.-Nr: P 62/951*
 <sup>[[3]](#footnote-3)</sup>
 
-[![Newspaper](/assets/imagesSPARTACUS.png "SPARTACUS.png")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/SPARTACUS.png)
+[![Newspaper](/assets/images/SPARTACUS.png "SPARTACUS.png")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/SPARTACUS.png)
 <sup>[[8]](#footnote-8)</sup>
 
 ### The-Accumulation-of-Capital
