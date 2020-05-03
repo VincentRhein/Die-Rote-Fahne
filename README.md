@@ -148,7 +148,7 @@ The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht 
 
 The Spartacus League (German: Spartakusbund) was a Marxist revolutionary movement organized in Germany during World War I. The League was named after Spartacus, leader of the largest slave rebellion of the Roman Republic. It was founded by Karl Liebknecht, Rosa Luxemburg, Clara Zetkin, and others. The League subsequently renamed itself the Kommunistische Partei Deutschlands (KPD), joining the Comintern in 1919. Its period of greatest activity was during the German Revolution of 1918, when it sought to incite a revolution by circulating the newspaper Spartacus Letters.
 
-[![Newspaper](/assets/images/KPD_SPARTAKUSBUND.jpg "KPD_SPARTAKUSBUND.jpg")](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
+[![Newspaper](/assets/images/KPD_SPARTAKUSBUND.jpg "KPD_SPARTAKUSBUND.jpg")](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg) <sup>[[3]](#footnote-3)</sup>
 
 *KPD Spartakusbund Berlin, 1919
 Offsetdruck
@@ -227,4 +227,6 @@ I was able to improve my skills in research and coding. Compared to my last year
 <a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg"
 
 <a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[2]**</a>: Rosa Luxemburg - "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg"
+
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[3]**</a>: Rosa Luxemburg - "https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg"
 
