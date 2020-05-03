@@ -218,7 +218,7 @@ https://vincentrhein.github.io/RedFlagWeb/
 # **Bibliography**
 
 
-<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg"
 
-<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[2]**</a>: Rosa_Luxemburg
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[2]**</a>: Rosa Luxemburg - "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg"
 
