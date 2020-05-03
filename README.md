@@ -21,7 +21,7 @@
 - [Red-Flag-Database](#Red-Flag-Database)
   + [Farbtest](#Farbtest)
 - [Poster-Analysis](#Poster-Analysis)
-- [Toolkit_Transcoding](#Toolkit_Transcoding)
+- [Toolkit-Transcoding](#Toolkit-Transcoding)
 - [Reflection](#Reflection)
 - [Outcomes](#Outcomes)
 - [Conclusion](#Conclusion)
@@ -63,7 +63,7 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
  IISG BG D5/981 |
  
 | **Designer** | 
- Designer	Flieger, Schallnau, Wongel |
+ Flieger, Schallnau, Wongel |
 
 # **Research**
 
@@ -176,7 +176,7 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 # **Poster-Analysis**
 
-# **Toolkit_Transcoding**
+# **Toolkit-Transcoding**
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> TOOLKIT SKETCHES
 
