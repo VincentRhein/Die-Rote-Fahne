@@ -191,22 +191,22 @@ Currently the website is hosted via Github. This works good because its easy to 
 ### Results
 Sketches and results of my progress to create my tool. 
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_SKETCH.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_SKETCH.png"> First Version of a Sketch where the newspaper is translated into a digital format.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_SKETCH.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_SKETCH.png"> Close up Sketch of an interactive page where you can click and zoom on one page.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_SKETCH.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_SKETCH.png"> Almost full frame high resolution images to read and look at each detail.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_SKETCH.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_SKETCH.png"> More details about the Newspaper. Transcript in german aswell as in english.
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> Overview of different newspapers but also of different posters by the designers.
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TOOLKIT.png"> TOOLKIT SKETCHES
 
 <a href="https://youtu.be/zsH9NA6Ytvg" target="_blank"><img src="http://img.youtube.com/vi/zsH9NA6Ytvg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 
-<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TEXT.png"> TOOLKIT SKETCHES
+<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TEXT.png"> TOOLKIT Large Newspaper Title for the toolkit website.
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TEXT.png"> TOOLKIT SKETCHES
 <sup>[[6]](#footnote-6)</sup>
