@@ -179,6 +179,8 @@ My main transcoding tool was to create an improved archive website for the red f
 
 My Website provides more details and better understanding of the red flag newspaper. Thanks to the the black and white photos the contrast is higher and therfore the text is more readable. With the zoom function it is possible now to look at each sentence or even single letters.
 
+### Sketches
+
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_TOOLKIT.png"> TOOLKIT SKETCHES
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_TOOLKIT.png"> TOOLKIT SKETCHES
