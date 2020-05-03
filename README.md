@@ -227,6 +227,7 @@ Final WIP TOOLKIT -> https://vincentrhein.github.io/RedFlagWeb/
 
 ### Source Links
 Inputs and codes I found for my tools during research or at group talks.
+
 https://kranten.archiefalkmaar.nl/issue/ACO/1936-03-04/edition/null/page/7?query=
 
 https://codepen.io/uglycoyote/pen/gpfeC
@@ -251,7 +252,6 @@ https://vincentrhein.github.io/RedFlagWeb/
 I was able to improve my skills in research and coding. Compared to my last years third year semester I think I developed better in coding and research. Coding was something I mostly avoided but in this semester I used it more and also next to IMD/Coding to improve in it. With this assignment I got to learn about a new source for research, the IISG. Researched felt more “alive” when you can visit a place and see and talk with the people there which was very nice. Hosting websites and understanding some basic of markdown on Github are also something new I learned this semester which is defiantly going to be useful in the future.
 
 # **Bibliography**
-
 
 <a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg"
 
