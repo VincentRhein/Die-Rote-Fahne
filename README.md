@@ -141,7 +141,7 @@ The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht 
 [![Newspaper](/assets/images/Karl_Liebknecht.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Karl_Liebknecht.jpg)
 *Karl Liebknecht* <sup>[[1]](#footnote-1)</sup>
 
-[![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg)
+[![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg) (#footnote-2)</sup>
 *Rosa Luxemburg*
 
 ### The-Spartacus-League
@@ -218,5 +218,7 @@ https://vincentrhein.github.io/RedFlagWeb/
 # **Bibliography**
 
 
-<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht 
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht
+
+<a name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rosa_Luxemburg.jpg/440px-Rosa_Luxemburg.jpg">**[2]**</a>: Rosa_Luxemburg
 
