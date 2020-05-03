@@ -18,7 +18,7 @@
   + [2nd-August-1935](#2nd-August-1935)
   * [The-Spartacus-League](#The-Spartacus-League)
   + [The-Accumulation-of-Capital](#The-Accumulation-of-Capital)
-- [Red-Flag-Database](#Red-Flag-Database)
+  + [Red-Flag-Database](#Red-Flag-Database)
 - [Toolkit-Transcoding](#Toolkit-Transcoding)
 - [Reflection](#Reflection)
 - [Outcomes](#Outcomes)
