@@ -16,8 +16,6 @@
   + [Marchdays-1920](#Marchdays-1920)
   * [29th-March-1921](#29th-March-1921)
   + [2nd-August-1935](#2nd-August-1935)
-  
-- [Founders](#Founders)
   * [The-Spartacus-League](#The-Spartacus-League)
   + [The-Accumulation-of-Capital](#The-Accumulation-of-Capital)
 - [Red-Flag-Database](#Red-Flag-Database)
@@ -127,8 +125,6 @@ Cleric fascism in need:
 
 Home Guard Before Dissolution?
 Vienna, August 1st. - In the future, a decree issued by the Austrian return commander forbids any political rally by the home ward and threatens disciplinary proceedings and expulsion from the home guard against all offenders. The decree states: “The Habsburg question should not be a subject of dispute within the home defense. If it turns out that it is impossible to prevent further politicization in certain associations, such formations will be dissolved. The government is strong enough to get by without it. “But the wild threat only hides the inner weakness of the Austrian clergy-fascist dictatorship.*
-
-# **Founders**
 
 ### About the red flag (Die rote Fahne)
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
