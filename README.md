@@ -156,6 +156,9 @@ Offsetdruck
 Inv.-Nr: P 62/951*
 <sup>[[3]](#footnote-3)</sup>
 
+[![Newspaper](/assets/imagesSPARTACUS.png "SPARTACUS.png")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/SPARTACUS.png)
+<sup>[[8]](#footnote-8)</sup>
+
 ### The-Accumulation-of-Capital
 In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand into noncapitalist areas in order to access new supply sources, markets for surplus value, and reservoirs of labor. According to Luxemburg, Marx had made an error in Capital in that the proletariat could not afford to buy the commodities they produced, and therefore by his own criteria it was impossible for capitalists to make a profit in a closed-capitalist system since the demand for commodities would be too low, and therefore much of the value of commodities could not be transformed into money. Therefore, according to Luxemburg, capitalists sought to realize profits through offloading surplus commodities onto non-capitalist economies, hence the phenomenon of imperialism as capitalist states sought to dominate weaker economies. This however lead to the destruction of non-capitalist economies as they were increasingly absorbed into the capitalist system. With the destruction of non-capitalist economies however, there would be no more markets to offload surplus commodities onto, and capitalism would break down.
 
@@ -268,3 +271,5 @@ Spartakusbund- "https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jp
 <a name="https://www.deutsche-handschrift.de/images/fraktur.gif">**[6]**</a>: Fraktur - https://www.deutsche-handschrift.de/images/fraktur.gif
 
 <a name="https://youtu.be/zsH9NA6Ytvg">**[7]**</a>: Video Website Sketch - https://youtu.be/zsH9NA6Ytvg
+
+<a name="https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024">**[8]**</a>: gründung der spartakusgruppe - https://dietrommlerarchiv.files.wordpress.com/2018/12/Gru%CC%88ndung-Spartakusgruppe.jpeg?w=1024
