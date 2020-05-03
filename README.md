@@ -208,7 +208,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 
 # **Outcomes**
 
-WIP TOOLKIT LINK
+My outcome is an improved archive about the red flag newspaper. The tool of zooming and translated text makes it easier and better to read and inform yourself about the newspaper. It applies especially great on a newspaper because it makes it possible to identify and read the smallest parts of a newspaper which were not accessible before. The website provides and in depth view for different exemplares of the red flag.
+
+WIP TOOLKIT LINK TO THE WEBSITE
 https://vincentrhein.github.io/RedFlagWeb/
 
 # **Conclusion**
