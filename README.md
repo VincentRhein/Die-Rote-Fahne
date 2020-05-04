@@ -1,5 +1,4 @@
 [![Banner](/assets/images/BANNER.jpg "BANNER.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/BANNER.jpg)
-
 <h1>The Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)</h1>
 
 ### Table of Contents
