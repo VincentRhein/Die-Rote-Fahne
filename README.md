@@ -75,15 +75,15 @@ I found this poster during my research for image class. In my research, for imag
 
 ## 1919-1920
 <img src="assets/images/4_RF.jpg" width="100%">
-*The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920
+The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920
 
 ## Marchdays-1920
 <img src="assets/images/3_RF.jpg" width="100%">
-*The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920*
+The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920
 
 ## 29th-March-1921
 [![29th-March-1921](/assets/images/1_RF.jpg "1_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
-*Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1*
+Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1
 
 ## 2nd August 1935
 [![2nd August 1935](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
