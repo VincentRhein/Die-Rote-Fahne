@@ -3,8 +3,8 @@
 
 # Table of Contents
 
-- [Artefact](#Artefact)
-  + [Metadata](#Metadata)
+- [Artefact](#artefact)
+  + [Metadata](#metadata)
 - [Research](#Research)
   + [Close-up](#Close-up)
   * [Media](#Media)
