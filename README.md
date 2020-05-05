@@ -84,12 +84,10 @@ The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 8
 The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920
 
 ## 29th-March-1921
-[![29th-March-1921]
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/1_RF.jpg">
 Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1
 
 ## 2nd August 1935
-[![2nd August 1935]
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/2_RF.jpg">
 **Die Rote Fahne (de)**
 
@@ -120,10 +118,13 @@ Vienna, August 1st. - In the future, a decree issued by the Austrian return comm
 ## About the red flag (Die rote Fahne)
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
 
-[![Newspaper](/assets/images/Karl_Liebknecht.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Karl_Liebknecht.jpg)
-*Karl Liebknecht* <sup>[[1]](#footnote-1)</sup>
+[![Newspaper]
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Karl_Liebknecht.jpg">
+Karl Liebknecht <sup>[[1]](#footnote-1)</sup>
 
-[![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg) *Rosa Luxemburg* <sup>[[2]](#footnote-2)</sup>
+[![Newspaper]
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/osa_Luxemburg.jpg">
+Rosa Luxemburg <sup>[[2]](#footnote-2)</sup>
 
 
 ## The-Spartacus-League
