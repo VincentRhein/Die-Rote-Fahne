@@ -74,7 +74,7 @@ I found this poster during my research for image class. In my research, for imag
 ##  More newspaper examples from the red flag I was able to acccess and document at the IISG.
 
 ## 1919-1920
-[<img src="assets/images/4_RF.jpg" width="100%">]
+<img src="assets/images/4_RF.jpg" width="100%">
 *The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920*
 
 ## Marchdays-1920
