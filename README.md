@@ -1,7 +1,7 @@
 [![Banner](/assets/images/BANNER.jpg "BANNER.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/BANNER.jpg)
-<h1>The Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)</h1>
+# Table of ContentsThe Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)
 
-### Table of Contents
+# Table of Contents
 
 - [Artefact](#Artefact)
   + [Metadata](#Metadata)
@@ -46,44 +46,44 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
 |<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1.jpg"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/5.jpg">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6.jpg"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/8.jpg">| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/9.jpg">  | 
 
-### Media
+## Media
 
 Poster from the German Democratic Republic on paper. The poster appears to be a reproduction of a newspaper which was called the red flag.
 
-### Format
+## Format
 
 42x28.5cm print. Facsimile of it can be a photo like in this case. The poster could be also scanned or the text in the poster can be transcript to a plain text or book. 
 
-### Methodology
+## Methodology
 
 The text on the poster is written in german. Furthermore the text is written in Fraktur typeface. For me personally this is still readable, but very time consuming and not possible on this image. I am aware that they are not very a "big fan" in handing out posters but in this case it is very difficult and not possible otherwise. I still would like to give it a try if they will hand my out this poster because of the text.
 
 Update: I was able to access the poster to take better photos aswell close-ups. Since it is a reproduction they were not to strict about it. The poster was in a folder with other posters about the same topic and time. Thanks to this I could find a second poster which was using the same newspaper. This made it possible to figure out the time, price and number. Those details on the top were unfortantly cut off.
 
-### Preservation
+## Preservation
 Depending on how much care they take on the poster and the paper is stored with the right light,  temperature and humidity this poster could be preserved for several hundred years. Although the poster was published in 1968 and is already very yellow I assume it was a cheap paper to print a lot of posters.
 
 ---
 
-### About the artefact and how I found it
+## About the artefact and how I found it
 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
-###  More newspaper examples from the red flag I was able to acccess and document at the IISG.
+##  More newspaper examples from the red flag I was able to acccess and document at the IISG.
 
-### 1919-1920
+## 1919-1920
 [![1919-1920](/assets/images/4_RF.jpg "4_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4_RF.jpg)
 *The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920*
 
-### Marchdays-1920
+## Marchdays-1920
 [![Marchdays-1920](/assets/images/3_RF.jpg "3_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_RF.jpg)
 *The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920*
 
-### 29th-March-1921
+## 29th-March-1921
 [![29th-March-1921](/assets/images/1_RF.jpg "1_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
 *Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1*
 
-### 2nd August 1935
+## 2nd August 1935
 [![2nd August 1935](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
 **Die Rote Fahne (de)**
 
@@ -111,7 +111,7 @@ Cleric fascism in need:
 Home Guard Before Dissolution?
 Vienna, August 1st. - In the future, a decree issued by the Austrian return commander forbids any political rally by the home ward and threatens disciplinary proceedings and expulsion from the home guard against all offenders. The decree states: “The Habsburg question should not be a subject of dispute within the home defense. If it turns out that it is impossible to prevent further politicization in certain associations, such formations will be dissolved. The government is strong enough to get by without it. “But the wild threat only hides the inner weakness of the Austrian clergy-fascist dictatorship.*
 
-### About the red flag (Die rote Fahne)
+## About the red flag (Die rote Fahne)
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
 
 [![Newspaper](/assets/images/Karl_Liebknecht.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Karl_Liebknecht.jpg)
@@ -120,7 +120,7 @@ The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht 
 [![Newspaper](/assets/images/Rosa_Luxemburg.jpg "Karl_Liebknecht.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg.jpg) *Rosa Luxemburg* <sup>[[2]](#footnote-2)</sup>
 
 
-### The-Spartacus-League
+## The-Spartacus-League
 
 The Spartacus League (German: Spartakusbund) was a Marxist revolutionary movement organized in Germany during World War I. The League was named after Spartacus, leader of the largest slave rebellion of the Roman Republic. It was founded by Karl Liebknecht, Rosa Luxemburg, Clara Zetkin, and others. The League subsequently renamed itself the Kommunistische Partei Deutschlands (KPD), joining the Comintern in 1919. Its period of greatest activity was during the German Revolution of 1918, when it sought to incite a revolution by circulating the newspaper Spartacus Letters.
 
@@ -136,13 +136,13 @@ Inv.-Nr: P 62/951*
 Foundation of the Spartacus group
 In the struggle against war, imperialism and opportunism, the German left united in March 1915 to form the group “Internationale”, which was led by Karl Liebknecht and Rosa Luxemburg. At a conference on January 1, 1996, “Guidelines on the Tasks of International Social Democracy” were adopted. It was also decided to publish illegal writings, which initially appeared as “Political Letters”, and since September 1916 as “Spartacus Letters”. The name “Spartakusgruppe” was derived from this. In these publications the working people were informed about the guilt of German imperialism in the war and called for its overthrow.<sup>[[8]](#footnote-8)</sup>
 
-### The-Accumulation-of-Capital
+## The-Accumulation-of-Capital
 In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand into noncapitalist areas in order to access new supply sources, markets for surplus value, and reservoirs of labor. According to Luxemburg, Marx had made an error in Capital in that the proletariat could not afford to buy the commodities they produced, and therefore by his own criteria it was impossible for capitalists to make a profit in a closed-capitalist system since the demand for commodities would be too low, and therefore much of the value of commodities could not be transformed into money. Therefore, according to Luxemburg, capitalists sought to realize profits through offloading surplus commodities onto non-capitalist economies, hence the phenomenon of imperialism as capitalist states sought to dominate weaker economies. This however lead to the destruction of non-capitalist economies as they were increasingly absorbed into the capitalist system. With the destruction of non-capitalist economies however, there would be no more markets to offload surplus commodities onto, and capitalism would break down.
 
 [![Newspaper](/assets/images/Rosa_Luxemburg_book.jpg "Rosa_Luxemburg_book.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/Rosa_Luxemburg_book.jpg)
 *The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.* <sup>[[4]](#footnote-4)</sup>
 
-# **Red-Flag-Database**
+## **Red-Flag-Database**
 
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:| 
@@ -157,18 +157,18 @@ Images and gifs <sup>[[5]](#footnote-5)</sup>
 
 # **Toolkit-Transcoding**
 
-### Description
+## Description
 My main transcoding tool was to create an improved archive website for the red flag newspaper. Going throught the newspapers on the IISG website I was missing the details and informations from the photographies or scannes of the newspaper. To improve this missing part I started on an early stage on already to think how this could work as a website. I needed someone a zoom function that lets the user dive deeper into details of the newspapers. But at the same time I would need a transcripted text below if it was to hard to figure out or to translate from german to english.
 
 My Website provides more details and better understanding of the red flag newspaper. Thanks to the the black and white photos the contrast is higher and therfore the text is more readable. With the zoom function it is possible now to look at each sentence or even single letters.
 
-### Aims
+## Aims
 The aim of this Tool is to be able research further about the Red Flag Newspaper. The Zoom function and transcripts text from the newspaper allows the user to learn more in details and depths about the newspaper. On the IISG archive website you are able to click on it ant thats kinda it. If the photos is in bad resolution then its even worse. With this tool you can zoom into details, learn more about it and even already have transcript text from the newspaper to the webpage.
 
-### Methods
+## Methods
 Currently the website is hosted via Github. This works good because its easy to change and reupload without any further problems. If there are any problems, they are easy to solve due to the large community of Github. The website is written by myself in html and css and uses for the zoom function and text javascript.   
 
-### Results
+## Results
 Sketches and results of my progress to create my tool. 
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_SKETCH.png"> First Version of a Sketch where the newspaper is translated into a digital format.
