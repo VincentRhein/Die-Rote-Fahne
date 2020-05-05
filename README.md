@@ -35,11 +35,11 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
 |--|--|
 **IISG Call Number** | [IISG BG D5/981 ](https://search.iisg.amsterdam/Record/800528)
 | **Physical Description** | Newspaper 
-| **Type** | Newspaper
-| **Medium** | Newspaper
+| **Type** | Newspaper Reproduction
+| **Medium** | Poster
 | **Materials** | Paper, Print
 | **Date** | 1968
-|![enter image description here](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3.jpg)| This is literally a description of what you see in the image, make sure its a clear, complete and concise overview of the artefact. It should make sense for someone who doesn't see the image itself.  Our final *Catalogue of Resilience* might make use of one representative image from each student, so important to put your moneyshot here. You can build a gallery of additional artefact images below. 
+|![The Red Flag Newspaper from 1968](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3.jpg)| Poster of a Newspaper by the red flag.
 
 ### Metadata
 
