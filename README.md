@@ -39,7 +39,7 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
 | **Medium** | Poster
 | **Materials** | Paper, Print
 | **Date** | 1968
-|![The Red Flag Newspaper from 1968]<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/1Artefact.jpg">| Poster of a Newspaper by the red flag.
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/1Artefact.jpg">| Poster of a Newspaper by the red flag.
 
 
 
@@ -76,19 +76,21 @@ I found this poster during my research for image class. In my research, for imag
 ##  More newspaper examples from the red flag I was able to acccess and document at the IISG.
 
 ## 1919-1920
-<img src="assets/images/4_RF.jpg" width="100%">
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/4_RF.jpg">
 The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920
 
 ## Marchdays-1920
-<img src="assets/images/3_RF.jpg" width="100%">
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/3_RF.jpg">
 The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920
 
 ## 29th-March-1921
-[![29th-March-1921](/assets/images/1_RF.jpg "1_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1_RF.jpg)
+[![29th-March-1921]
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/1_RF.jpg">
 Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1
 
 ## 2nd August 1935
-[![2nd August 1935](/assets/images/2_RF.jpg "2_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/2_RF.jpg)
+[![2nd August 1935]
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/2_RF.jpg">
 **Die Rote Fahne (de)**
 
 Kommunistisches Tagblatt
