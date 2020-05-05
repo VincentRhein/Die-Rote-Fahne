@@ -78,7 +78,7 @@ I found this poster during my research for image class. In my research, for imag
 *The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920*
 
 ## Marchdays-1920
-[![Marchdays-1920](/assets/images/3_RF.jpg "3_RF.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/3_RF.jpg)
+<img src="assets/images/3_RF.jpg" width="100%">
 *The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920*
 
 ## 29th-March-1921
