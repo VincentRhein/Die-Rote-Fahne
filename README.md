@@ -39,7 +39,9 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
 | **Medium** | Poster
 | **Materials** | Paper, Print
 | **Date** | 1968
-|![The Red Flag Newspaper from 1968](https://search.iisg.amsterdam/Cover/Show?author=Flieger%2C+...&callnumber=BG+D5%2F981&size=small&title=%5BPoster.%5D+SED+%28DDR%29.&pid=30051001129490&publication=pictoright)| Poster of a Newspaper by the red flag.
+|![The Red Flag Newspaper from 1968]<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/1Artefact.jpg">| Poster of a Newspaper by the red flag.
+
+
 
 # **Research**
 
