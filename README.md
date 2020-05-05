@@ -1,4 +1,5 @@
-[<img src="assets/img/BANNER.jpg" width="100%">](#)
+[<img src="assets/images/BANNER.jpg" width="100%">](#)
+
 
 # Table of ContentsThe Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)
 
