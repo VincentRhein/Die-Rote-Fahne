@@ -128,7 +128,9 @@ Rosa Luxemburg [2]
 
 The Spartacus League (German: Spartakusbund) was a Marxist revolutionary movement organized in Germany during World War I. The League was named after Spartacus, leader of the largest slave rebellion of the Roman Republic. It was founded by Karl Liebknecht, Rosa Luxemburg, Clara Zetkin, and others. The League subsequently renamed itself the Kommunistische Partei Deutschlands (KPD), joining the Comintern in 1919. Its period of greatest activity was during the German Revolution of 1918, when it sought to incite a revolution by circulating the newspaper Spartacus Letters.
 
-[![Newspaper](/assets/images/KPD_SPARTAKUSBUND.jpg "KPD_SPARTAKUSBUND.jpg")](https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/KPD_SPARTAKUSBUND.jpg">
+
+(https://www.dhm.de/fileadmin/medien/lemo/Titelbilder/pl006972.jpg)
 *KPD Spartakusbund Berlin, 1919
 Offsetdruck
 62x47 cm
@@ -136,7 +138,8 @@ Offsetdruck
 Inv.-Nr: P 62/951*
 <sup>[[3]](#footnote-3)</sup>
 
-[![Newspaper](/assets/images/SPARTACUS.png "SPARTACUS.png")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/SPARTACUS.png)
+[![Newspaper]
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/SPARTACUS.png">
 Foundation of the Spartacus group
 In the struggle against war, imperialism and opportunism, the German left united in March 1915 to form the group “Internationale”, which was led by Karl Liebknecht and Rosa Luxemburg. At a conference on January 1, 1996, “Guidelines on the Tasks of International Social Democracy” were adopted. It was also decided to publish illegal writings, which initially appeared as “Political Letters”, and since September 1916 as “Spartacus Letters”. The name “Spartakusgruppe” was derived from this. In these publications the working people were informed about the guilt of German imperialism in the war and called for its overthrow.<sup>[[8]](#footnote-8)</sup>
 
