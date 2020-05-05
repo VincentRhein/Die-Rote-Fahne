@@ -1,4 +1,5 @@
-[![Banner](/assets/images/BANNER.jpg "BANNER.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/BANNER.jpg)
+[<img src="assets/img/BANNER.jpg" width="100%">](#)
+
 # Table of ContentsThe Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)
 
 # Table of Contents
