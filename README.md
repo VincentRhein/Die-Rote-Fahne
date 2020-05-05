@@ -28,7 +28,7 @@
 
 The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fahne (The Red Flag). I was working on some reasearch about the Youth Pioneers (Jung Pioniere) in the GDR in an other class and throught this I came across the newspaper. The red flag on the newspaper is very present and centered and therfore I thought it would be interessting to get to know more about the articles and the newspapers history itself. The fact that this artefact is not even a hundert years old but its medium as newspaper is so old fashioned and not very present and important anymore in our digital age. We consume most of our information over websites, blogs or social media.
 
-[![Banner](/assets/images/3.jpg "3.jpg")](https://search.iisg.amsterdam/Cover/Show?author=Flieger%2C+...&callnumber=BG+D5%2F981&size=small&title=%5BPoster.%5D+SED+%28DDR%29.&pid=30051001129490&publication=pictoright)
+[![Banner](/assets/images/1Artefact.jpg")](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1Artefact.jpg)
 
 ## Metadata
 | Tag | Data |  
