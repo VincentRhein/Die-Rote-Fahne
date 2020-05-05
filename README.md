@@ -119,11 +119,10 @@ Vienna, August 1st. - In the future, a decree issued by the Austrian return comm
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
 
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Karl_Liebknecht.jpg">
-Karl Liebknecht <sup>[[1]](#footnote-1)</sup>
+Karl Liebknecht [1]
 
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Rosa_Luxemburg.jpg">
-Rosa Luxemburg <sup>[[2]](#footnote-2)</sup>
-
+Rosa Luxemburg [2]
 
 ## The-Spartacus-League
 
