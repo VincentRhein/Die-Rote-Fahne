@@ -75,7 +75,7 @@ I found this poster during my research for image class. In my research, for imag
 
 ## 1919-1920
 <img src="assets/images/4_RF.jpg" width="100%">
-*The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920*
+*The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 83, 1919-1920
 
 ## Marchdays-1920
 <img src="assets/images/3_RF.jpg" width="100%">
