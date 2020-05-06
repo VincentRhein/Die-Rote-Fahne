@@ -1,6 +1,6 @@
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/BANNER.jpg">
 
-# Table of ContentsThe Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)
+# The Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)
 
 # Table of Contents
 
