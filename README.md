@@ -1,6 +1,5 @@
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/BANNER.jpg">
 
-
 # Table of ContentsThe Red flag Newspaper, Central Organ of the German Communist Party (Spartacus League)
 
 # Table of Contents
@@ -17,10 +16,10 @@
   + [Marchdays-1920](#marchdays-1920)
   * [29th-March-1921](#29th-March-1921)
   + [2nd-August-1935](#2nd-August-1935)
-  * [The-Spartacus-League](#the-Spartacus-League)
-  + [The-Accumulation-of-Capital](#the-Accumulation-of-Capital)
-  + [Red-Flag-Database](#red-Flag-Database)
-- [Toolkit-Transcoding](#toolkit-Transcoding)
+  * [The-Spartacus-League](#the-spartacus-league)
+  + [The-Accumulation-of-Capital](#the-accumulation-of-capital)
+  + [Red-Flag-Database](#red-flag-database)
+- [Toolkit-Transcoding](#toolkit-transcoding)
 - [Reflection](#reflection)
 - [Outcomes](#outcomes)
 - [Conclusion](#conclusion)
