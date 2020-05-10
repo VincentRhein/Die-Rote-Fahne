@@ -1,4 +1,4 @@
-<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/BANNER.jpg">
+[img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/BANNER.jpg"](#)
 # The Red flag Newspaper
 
 # Table of Contents
