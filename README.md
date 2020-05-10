@@ -1,8 +1,7 @@
-[img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/BANNER.jpg"](#)
+[<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/BANNER.jpg" width="100%">](#)
 # The Red flag Newspaper
 
-# Table of Contents
-
+### Table of Contents
 - [Artefact](#artefact)
   + [Metadata](#metadata)
 - [Research](#research)
