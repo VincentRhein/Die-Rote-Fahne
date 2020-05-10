@@ -61,13 +61,11 @@ Update: I was able to access the poster to take better photos aswell close-ups. 
 ## Preservation
 Depending on how much care they take on the poster and the paper is stored with the right light,  temperature and humidity this poster could be preserved for several hundred years. Although the poster was published in 1968 and is already very yellow I assume it was a cheap paper to print a lot of posters.
 
----
-
-## About the artefact and how I found it
+### About the artefact and how I found it
 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
-##  More newspaper examples from the red flag I was able to acccess and document at the IISG.
+###  More newspaper examples from the red flag I was able to acccess and document at the IISG.
 
 ## 1919-1920
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/4_RF.jpg">
@@ -142,7 +140,7 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Rosa_Luxemburg_book.jpg">
 *The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.* <sup>[[4]](#footnote-4)</sup>
 
-## **Red-Flag-Database**
+## Red-Flag-Database
 
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:| 
@@ -155,7 +153,7 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 Images and gifs <sup>[[5]](#footnote-5)</sup>
 
-# **Toolkit-Transcoding**
+# Toolkit-Transcoding
 
 ## Description
 My main transcoding tool was to create an improved archive website for the red flag newspaper. Going throught the newspapers on the IISG website I was missing the details and informations from the photographies or scannes of the newspaper. To improve this missing part I started on an early stage on already to think how this could work as a website. I needed someone a zoom function that lets the user dive deeper into details of the newspapers. But at the same time I would need a transcripted text below if it was to hard to figure out or to translate from german to english.
@@ -217,22 +215,22 @@ https://codepen.io/creme/pen/gOYrvxM
 
 https://www.w3schools.com/howto/howto_js_image_zoom.asp
 
-# **Reflection**
+# Reflection
 
 It was very interesting to work with IISG in Amsterdam and to discover this place. I guess I was lucky that I went a few times to the archive before everything shut done due to the virus. Therefor I had a lot of photography material of the newspaper to work with. Maybe for me personally that shows I should get things done the moment I can and not push it out. In this case it worked quite well. The topic I chose is I would say not very typical for me and I liked it because through this I could learn a lot about the GDR past which I had no idea of. Furthermore that I worked on a website also thought me a lot because I think I might have chosen an other way if I could have keep on working at school in the workshops. The tool  I developed and worked on seems to work and provides a solution. Working in a markdown on github and also hosting website with github was an other tool which I could learn and now use after this semester.  
 
-# **Outcomes**
+# Outcomes
 
 My outcome is an improved archive about the red flag newspaper. The tool of zooming and translated text makes it easier and better to read and inform yourself about the newspaper. It applies especially great on a newspaper because it makes it possible to identify and read the smallest parts of a newspaper which were not accessible before. The website provides and in depth view for different exemplares of the red flag.
 
 WIP TOOLKIT LINK TO THE WEBSITE
 https://vincentrhein.github.io/RedFlagWeb/
 
-# **Conclusion**
+# Conclusion
 
 I was able to improve my skills in research and coding. Compared to my last years third year semester I think I developed better in coding and research. Coding was something I mostly avoided but in this semester I used it more and also next to IMD/Coding to improve in it. With this assignment I got to learn about a new source for research, the IISG. Researched felt more “alive” when you can visit a place and see and talk with the people there which was very nice. Hosting websites and understanding some basic of markdown on Github are also something new I learned this semester which is defiantly going to be useful in the future.
 
-# **Bibliography**
+# Bibliography
 
 <a name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg">**[1]**</a>: Karl Liebknecht - https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Karl_Liebknecht.jpg/440px-Karl_Liebknecht.jpg"
 
