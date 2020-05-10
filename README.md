@@ -16,7 +16,6 @@
   + [2nd-August-1935](#2nd-August-1935)
   * [The-Spartacus-League](#the-spartacus-league)
   + [The-Accumulation-of-Capital](#the-accumulation-of-capital)
-  + [Red-Flag-Database](#red-flag-database)
 - [Transcoding](#Transcoding)
   + [Transcoding-No1](#Transcoding-No1)
   + [Transcoding-Tool](#Transcoding-Tool)
@@ -142,7 +141,16 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Rosa_Luxemburg_book.jpg">
 *The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.* <sup>[[4]](#footnote-4)</sup>
 
-## Red-Flag-Database
+# Transcoding-No1
+
+## Description
+The Red Flag database is an image collecion of selected images which relate to the meaning and world build around the word red flag. Red Flag has so many different meanings and faces around the world and in different cultures. Therfore I chose some images to compare and show next to each other what they can mean and look like. 
+
+## Methods
+Collecte images from books, websites or in textes. The more the better of the collection I could choose from.   
+
+## Results
+See Images
 
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:| 
@@ -154,8 +162,6 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--016.jpg"> Plain red banners for the Sultan's retinue. From the collection Moeurs et costumes des Orientaux, undated|
 
 Images and gifs <sup>[[5]](#footnote-5)</sup>
-
-# Transcoding-No1
 
 # Transcoding-Tool
 
