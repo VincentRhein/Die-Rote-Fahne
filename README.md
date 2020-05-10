@@ -17,7 +17,9 @@
   * [The-Spartacus-League](#the-spartacus-league)
   + [The-Accumulation-of-Capital](#the-accumulation-of-capital)
   + [Red-Flag-Database](#red-flag-database)
-- [Toolkit-Transcoding](#toolkit-transcoding)
+- [Transcoding](#Transcoding)
+  + [Transcoding-No1](#Transcoding-No1)
+  + [Transcoding-Tool](#Transcoding-Tool)
 - [Reflection](#reflection)
 - [Outcomes](#outcomes)
 - [Conclusion](#conclusion)
@@ -153,7 +155,9 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 Images and gifs <sup>[[5]](#footnote-5)</sup>
 
-# Toolkit-Transcoding
+# Transcoding-No1
+
+# Transcoding-Tool
 
 ## Description
 My main transcoding tool was to create an improved archive website for the red flag newspaper. Going throught the newspapers on the IISG website I was missing the details and informations from the photographies or scannes of the newspaper. To improve this missing part I started on an early stage on already to think how this could work as a website. I needed someone a zoom function that lets the user dive deeper into details of the newspapers. But at the same time I would need a transcripted text below if it was to hard to figure out or to translate from german to english.
