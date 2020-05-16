@@ -167,7 +167,7 @@ Images and gifs <sup>[[5]](#footnote-5)</sup>
 Collection of different ways to represent a red flag in a digital way with a variety of softwares.
 
 ## Methods
-Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, SketchBook Pro, Cinema 4D, Processing 
+Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, SketchBook Pro, Cinema 4D, Processing, Paint S for Apple 
 
 ## Results
 | ![Adobe Illustrator](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/01ILLUSTRATOR.png)  | ![Adobe Indesign](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/02INDESIGN.jpg) | [![Adobe Photoshop](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/03PHOTOSHOP.jpg)](http://graphicstock.com) |
