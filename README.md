@@ -164,10 +164,10 @@ Images and gifs <sup>[[5]](#footnote-5)</sup>
 # Transcoding-No2
 
 ## Description
-The 
+Collection of different ways to represent a red flag in a digital way with a variety of softwares.
 
 ## Methods
-C 
+Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, SketchBook Pro, Cinema 4D, Processing 
 
 ## Results
 C 
