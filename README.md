@@ -142,6 +142,8 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Rosa_Luxemburg_book.jpg">
 *The Accumulation of Capital, is the principal book-length work of Rosa Luxemburg, first published in 1913, and the only work Luxemburg published on economics during her lifetime.* <sup>[[4]](#footnote-4)</sup>
 
+# Transcoding
+
 # Transcoding-No1
 
 ## Description
