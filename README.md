@@ -18,6 +18,7 @@
   + [The-Accumulation-of-Capital](#the-accumulation-of-capital)
 - [Transcoding](#Transcoding)
   + [Transcoding-No1](#Transcoding-No1)
+  + [Transcoding-No2](#Transcoding-No2)
   + [Transcoding-Tool](#Transcoding-Tool)
 - [Reflection](#reflection)
 - [Outcomes](#outcomes)
@@ -159,6 +160,17 @@ Collecte images from books, websites or in textes. The more the better of the co
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/image--016.jpg"> Plain red banners for the Sultan's retinue. From the collection Moeurs et costumes des Orientaux, undated|
 
 Images and gifs <sup>[[5]](#footnote-5)</sup>
+
+# Transcoding-No2
+
+## Description
+The 
+
+## Methods
+C 
+
+## Results
+C 
 
 # Transcoding-Tool
 
