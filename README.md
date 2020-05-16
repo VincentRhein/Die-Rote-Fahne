@@ -178,9 +178,9 @@ Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, Sk
 |:---:|:---:|:---:|
 | SketchbookPro | Processing | Cinema 4D |
 
-| ![Adobe After Effects](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/07CINEMA4D_i.png)  | ![Apple Pages](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/05Pages.png) | [![Cinema 4D](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/04AFTEREFFECTS_i.png)](http://graphicstock.com) |
+| ![Adobe After Effects](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/07CINEMA4D_i.png)  | ![Apple Pages](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/05Pages.png) | [![Paint S](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/09PAINT.png)](http://graphicstock.com) |
 |:---:|:---:|:---:|
-| Adobe After Effects | Apple Pages | Cinema 4D |
+| Adobe After Effects | Apple Pages | Paint S |
 
 
 # Transcoding-Tool
