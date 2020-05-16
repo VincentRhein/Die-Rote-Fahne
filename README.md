@@ -170,7 +170,9 @@ Collection of different ways to represent a red flag in a digital way with a var
 Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, SketchBook Pro, Cinema 4D, Processing 
 
 ## Results
-C 
+| ![Adobe Illustrator](https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/01ILLUSTRATOR.png)  | ![Adobe Indesign](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/02INDESIGN.jpg) | [![Adobe Photoshop](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/03PHOTOSHOP.jpg)](http://graphicstock.com) |
+|:---:|:---:|:---:|
+| Adobe Illustrator | Adobe Indesign | Adobe Photoshop | 
 
 # Transcoding-Tool
 
