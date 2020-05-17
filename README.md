@@ -19,6 +19,7 @@
 - [Transcoding](#Transcoding)
   + [Transcoding-No1](#Transcoding-No1)
   + [Transcoding-No2](#Transcoding-No2)
+  + [Transcoding-No3](#Transcoding-No3)
   + [Transcoding-Tool](#Transcoding-Tool)
 - [Reflection](#reflection)
 - [Outcomes](#outcomes)
@@ -112,11 +113,9 @@ Vienna, August 1st. - In the future, a decree issued by the Austrian return comm
 ## About the red flag (Die rote Fahne)
 The newspaper Die Rote Fahne was founded on November 9, 1918 by Karl Liebknecht and Rosa Luxemburg in Berlin - initially as a journalistic organ of the Spartacus League. As a result of the constitution of the German Communist Party (KPD) on January 1, 1919, it was the central organ of the party until 1945. Banned after the end of the Weimar Republic, it was spread underground during the dictatorship of National Socialism under the conditions of illegality in party-close resistance circles.
 
-<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Karl_Liebknecht.jpg">
-Karl Liebknecht [1]
-
-<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Rosa_Luxemburg.jpg">
-Rosa Luxemburg [2]
+| ![Karl Liebknecht](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Karl_Liebknecht.jpg)  | ![Rosa Luxemburg](https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Rosa_Luxemburg.jpg) | |
+|:---:|:---:|:---:|
+| Karl Liebknecht | Rosa Luxemburg | 
 
 ## The-Spartacus-League
 
@@ -184,6 +183,16 @@ Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, Sk
 |:---:|:---:|:---:|
 | Adobe After Effects | Apple Pages | Paint S |
 
+# Transcoding-No3
+
+## Description
+The german Fraktur has unfortunately a bad history. Often associated to much with ith nazi past. This has not 
+
+## Methods
+Modenr approchas of the Fraktur in todays design.   
+
+## Results
+testword
 
 # Transcoding-Tool
 
