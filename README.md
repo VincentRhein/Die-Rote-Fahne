@@ -186,10 +186,10 @@ Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, Sk
 # Transcoding-No3
 
 ## Description
-The german Fraktur has unfortunately a bad history. Often associated to much with ith nazi past. This has not 
+The Fraktur or Blackletters carry a heavy backpack of stereotypes with them each day. Often seen in propaganda of the nazis in print, letters or movie the typeface was dragged through the dirt.
 
 ## Methods
-Modenr approchas of the Fraktur in todays design.   
+Create an excercise for myself to only work with blackletters. A serie of posters by using only two blackletters. An older version of the Fetter Fraktur and a digitalised Potsdam Fraktur. Try to show the typefaces in details and in its pures form, almost like type specimen.  
 
 ## Results
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Image.jpg">
