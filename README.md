@@ -192,7 +192,11 @@ The german Fraktur has unfortunately a bad history. Often associated to much wit
 Modenr approchas of the Fraktur in todays design.   
 
 ## Results
-testword
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/Image.jpg">
+Poster print out on wall
+
+<img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/image_closeup.jpg">
+Close-up
 
 # Transcoding-Tool
 
