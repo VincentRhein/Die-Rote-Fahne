@@ -65,11 +65,11 @@ Update: I was able to access the poster to take better photos aswell close-ups. 
 ## Preservation
 Depending on how much care they take on the poster and the paper is stored with the right light,  temperature and humidity this poster could be preserved for several hundred years. Although the poster was published in 1968 and is already very yellow I assume it was a cheap paper to print a lot of posters.
 
-### About the artefact and how I found it
+## About the artefact and how I found it
 
 I found this poster during my research for image class. In my research, for image class I focused on the movement of the Youth Pioneers (Jung Pioniere) and the Free German Youth (Freie Deutsche Jugend). Both those movements accrued during the time of the German Democratic Republic. I found this poster interesting because of two reasons. First, the red communist flag is very present and impossible to ignore. Making it clear and easy what this text could be standing for. Second, the poster is very informative with a lot of text. During 1949 to 1990 there was no internet and not everyone had a television in there home yet. Therefore to inform the population posters played a way bigger role than in today. The poster was filled with information and communication as much as possible for the people. Today the media can be spread through so many channels and seeing a poster like this is very uncommon.
 
-###  More newspaper examples from the red flag I was able to acccess and document at the IISG.
+##  More newspaper examples from the red flag I was able to acccess and document at the IISG.
 
 ## 1919-1920
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/4_RF.jpg">
@@ -144,7 +144,7 @@ In the polemic, Rosa Luxemburg argued that capitalism needs to constantly expand
 
 # Transcoding
 
-# Transcoding-No1
+## Transcoding-No1
 
 ## Description
 The Red Flag database is an image collecion of selected images which relate to the meaning and world build around the word red flag. Red Flag has so many different meanings and faces around the world and in different cultures. Therfore I chose some images to compare and show next to each other what they can mean and look like. 
@@ -163,7 +163,7 @@ Collecte images from books, websites or in textes. The more the better of the co
 
 Images and gifs <sup>[[5]](#footnote-5)</sup>
 
-# Transcoding-No2
+## Transcoding-No2
 
 ## Description
 Collection of different ways to represent a red flag in a digital way with a variety of softwares.
@@ -184,7 +184,7 @@ Adobe Illustrator, Adobe Indesign, Adobe Photoshop, Adobe After Effect, Page, Sk
 |:---:|:---:|:---:|
 | Adobe After Effects | Apple Pages | Paint S |
 
-# Transcoding-No3
+## Transcoding-No3
 
 ## Description
 The Fraktur or Blackletters carry a heavy backpack of stereotypes with them each day. Often seen in propaganda of the nazis in print, letters or movie the typeface was dragged through the dirt.
@@ -199,7 +199,7 @@ Poster print out on wall
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/image_closeup.jpg">
 Close-up
 
-# Transcoding-Tool
+## Transcoding-Tool
 
 ## Description
 My main transcoding tool was to create an improved archive website for the red flag newspaper. Going throught the newspapers on the IISG website I was missing the details and informations from the photographies or scannes of the newspaper. To improve this missing part I started on an early stage on already to think how this could work as a website. I needed someone a zoom function that lets the user dive deeper into details of the newspapers. But at the same time I would need a transcripted text below if it was to hard to figure out or to translate from german to english.
@@ -250,7 +250,7 @@ Animated sketch in after effect of the website uploded on youtube. Spend more ti
 
 Final WIP TOOLKIT -> https://vincentrhein.github.io/RedFlagWeb16-05-20/
 
-### Source Links
+## Source Links
 Inputs and codes I found for my tools during research or at group talks.
 
 https://kranten.archiefalkmaar.nl/issue/ACO/1936-03-04/edition/null/page/7?query=
