@@ -248,7 +248,7 @@ Animated sketch in after effect of the website uploded on youtube. Spend more ti
 
 <img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6_WEB.png">  Overview of my newspaer archive.
 
-Final WIP TOOLKIT -> https://vincentrhein.github.io/RedFlagWeb16-05-20/
+TOOLKIT -> https://vincentrhein.github.io/RedFlagArchive/
 
 ## Source Links
 Inputs and codes I found for my tools during research or at group talks.
@@ -269,8 +269,8 @@ It was very interesting to work with IISG in Amsterdam and to discover this plac
 
 My outcome is an improved archive about the red flag newspaper. The tool of zooming and translated text makes it easier and better to read and inform yourself about the newspaper. It applies especially great on a newspaper because it makes it possible to identify and read the smallest parts of a newspaper which were not accessible before. The website provides and in depth view for different exemplares of the red flag.
 
-WIP TOOLKIT LINK TO THE WEBSITE
-https://vincentrhein.github.io/RedFlagWeb16-05-20/
+TOOLKIT LINK TO THE WEBSITE
+https://vincentrhein.github.io/RedFlagArchive/
 
 # Conclusion
 
