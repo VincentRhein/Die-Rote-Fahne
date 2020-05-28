@@ -45,6 +45,12 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
 
 | | | | 
 |:-------------------------:|:-------------------------:|:-------------------------:| 
+|<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1.jpg"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/8.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/9.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6.jpg"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/8.jpg">| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/9.jpg">  | 
+
+
+| | | | 
+|:-------------------------:|:-------------------------:|:-------------------------:| 
 |<img width="1604" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/1.jpg"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/5.jpg">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6.jpg"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/8.jpg">| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/9.jpg">  | 
 
