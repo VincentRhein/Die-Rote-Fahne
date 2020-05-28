@@ -49,10 +49,8 @@ The Arefact I chose at the IISG in Amsterdam is the former Newspaper Die Rote Fa
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/6.jpg"> |
 
 <img src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/4.jpg">
-Headline Close-Up
 
 <img src="https://raw.githubusercontent.com/VincentRhein/Die-Rote-Fahne/master/assets/images/5.jpg">
-Headline Close-Up
 
 ## Media
 
