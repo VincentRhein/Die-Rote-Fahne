@@ -261,7 +261,8 @@ https://codepen.io/creme/pen/gOYrvxM
 
 https://www.w3schools.com/howto/howto_js_image_zoom.asp
 
-# Reflection
+# Refelection
+
 
 It was very interesting to work with IISG in Amsterdam and to discover this place. I guess I was lucky that I went a few times to the archive before everything shut done due to the virus. Therefor I had a lot of photography material of the newspaper to work with. Maybe for me personally that shows I should get things done the moment I can and not push it out. In this case it worked quite well. The topic I chose is I would say not very typical for me and I liked it because through this I could learn a lot about the GDR past which I had no idea of. Furthermore that I worked on a website also thought me a lot because I think I might have chosen an other way if I could have keep on working at school in the workshops. The tool  I developed and worked on seems to work and provides a solution. Working in a markdown on github and also hosting website with github was an other tool which I could learn and now use after this semester.  
 
