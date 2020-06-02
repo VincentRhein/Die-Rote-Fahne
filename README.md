@@ -12,7 +12,7 @@
     4.  [Preservation](#preservation)
     5.  [1919-1920](#1919-1920)
     6.  [Marchdays-1920](#Marchdays-1920)
-    7.  [29th-March-1921](#machdays-1921)
+    7.  [29th-March-1921](#29th-March-1921)
     8.  [2nd-August-1935](#2nd-August-1935)
     9. [The-Spartacus-League](#the-spartacus-league)
     10. [The-Accumulation-of-Capital](#the-accumulation-of-capital)
@@ -79,7 +79,7 @@ The Red Flag, Communist Party of Germany, (Spartakusbund) District Berlin, Nr. 8
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/3_RF.jpg">
 The Red Flag, Communist Party of Germany, District of Berlin, Nr. 86, Marchdays 1920
 
-## 29th-March-1921
+## 29th-March-1921 
 <img src="https://github.com/VincentRhein/Die-Rote-Fahne/blob/master/assets/images/1_RF.jpg">
 Newspaper, The Red Flag, Tuesday the 29th March 1921, Evening. Nr. 1
 
